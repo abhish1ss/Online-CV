@@ -21,3 +21,32 @@ PYTHON)<BR>
 OPERATING SYSTEMS (UNIX/LINUX (UBUNTU),
 WINDOWS) <BR>
 OTHERS (DATA STRUCTURES & ALGORITHMS,OOPS) <BR>
+  
+Education
+<table>
+  <tr>
+    <td>YEAR</td>
+    <td>INSTITUTE</td>
+    <td>QUALIFICATION</td>
+    <TD>PERCENTAGE / CGPA</TD>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>HIGH SCHOOL</td>
+    <td>ST. FRANCIS INTER COLLEGE</td>
+    <td>8.0</td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>INTERMEDIATE</td>
+    <td>ST. FRANCIS INTER COLLEGE</td>
+    <td>64.60%</td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>B. TECH</td>
+    <td>INDERPRASTHA ENGINEERING COLLEGE</td>
+    <td>73.60%</td>
+  </tr>
+</table>
+  
