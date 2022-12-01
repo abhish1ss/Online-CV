@@ -25,10 +25,10 @@ OTHERS (DATA STRUCTURES & ALGORITHMS,OOPS) <BR>
 Education
 <table>
   <tr>
-    <td>YEAR</td>
-    <td>INSTITUTE</td>
-    <td>QUALIFICATION</td>
-    <TD>PERCENTAGE / CGPA</TD>
+    <tH>YEAR</tH>
+    <tH>INSTITUTE</tH>
+    <tH>QUALIFICATION</tH>
+    <TH>PERCENTAGE / CGPA</TH>
   </tr>
   <tr>
     <td>2012</td>
