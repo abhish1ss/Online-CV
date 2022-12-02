@@ -3,8 +3,8 @@
 ## SOFTWARE DEVELOPER
 abhishekssiin@gmail.com  | +917011127266 | GURGAON,INDIA | 14/10/1996 | 
 
-<a href=“https://www.linkedin.com/in/abhish1s”>LINKED IN</a>
-<a href=“https://auth.geeksforgeeks.org/user/abhisheksingh75/”>Geeks For Geek</a>
+<a href="https://www.linkedin.com/in/abhish1s">LINKED IN</a>
+<a href="https://auth.geeksforgeeks.org/user/abhisheksingh75/">Geeks For Geek</a>
 
 Profile<BR>
 Diligent software engineer with 3+ years of experience
@@ -35,7 +35,7 @@ Education
     <td>2012</td>
     <td>HIGH SCHOOL</td>
     <td>ST. FRANCIS INTER COLLEGE</td>
-    <td>8.0</td>
+    <td>8.0</td
   </tr>
   <tr>
     <td>2014</td>
