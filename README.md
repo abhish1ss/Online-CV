@@ -582,6 +582,6 @@ Worked on integration with other Product.
     <script src="js/core/bootstrap.min.js?ver=1.1.0"></script>
     <script src="js/now-ui-kit.js?ver=1.1.0"></script>
     <script src="js/aos.js?ver=1.1.0"></script>
-    <script src="scripts/main.js?ver=1.1.0"></script>
+    <script src="main.js?ver=1.1.0"></script>
   </body>
 </html>
