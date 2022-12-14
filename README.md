@@ -7,9 +7,9 @@
     <title>PortFolio</title>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
-    <link href="aos.css?ver=1.1.0" rel="stylesheet">
-    <link href="bootstrap.min.css?ver=1.1.0" rel="stylesheet">
-    <link href="main.css?ver=1.1.0" rel="stylesheet">
+    <link href="css/aos.css?ver=1.1.0" rel="stylesheet">
+    <link href="css/bootstrap.min.css?ver=1.1.0" rel="stylesheet">
+    <link href="css/main.css?ver=1.1.0" rel="stylesheet">
     <noscript>
       <style type="text/css">
         [data-aos] {
@@ -582,6 +582,6 @@ Worked on integration with other Product.
     <script src="js/core/bootstrap.min.js?ver=1.1.0"></script>
     <script src="js/now-ui-kit.js?ver=1.1.0"></script>
     <script src="js/aos.js?ver=1.1.0"></script>
-    <script src="main.js?ver=1.1.0"></script>
+    <script src="scripts/main.js?ver=1.1.0"></script>
   </body>
 </html>
