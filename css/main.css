@@ -4444,6 +4444,32 @@ Created using IcoMoon - icomoon.io
   .bootstrap-collapse .bar2,
   .bootstrap-collapse .bar3 {
     outline: 1px solid transparent; }
+.skill-box{
+	display:flex;
+  flex-wrap: wrap;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: white;
+  justify-content: center;
+}
+.skill-img-box{
+  width: 30%;
+  height: 200px;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.skill-box img{
+  margin:10px;
+  height:100px;
+  object-fit: cover;
+  background-position: center center;
+  background-size: cover;
+  border-radius: 5%;
+  transition: transform 0.3s ease-in-out;
+}
   .bootstrap-collapse .bar1 {
     top: 0px;
     -webkit-animation: topbar-back 500ms linear 0s;
