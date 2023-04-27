@@ -2370,6 +2370,37 @@ body {
   .separator.separator-primary {
     background-color: #378C3F; }
 
+.skill-box{
+	display:flex;
+  flex-wrap: wrap;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: white;
+  justify-content: center;
+}
+.skill-img-box{
+  width: 30%;
+  height: 200px;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.skill-box img{
+  margin:10px;
+  height:100px;
+  object-fit: cover;
+  background-position: center center;
+  background-size: cover;
+  border-radius: 5%;
+  transition: transform 0.3s ease-in-out;
+}
+
+.skill-box img:hover{
+	transform: scale(1.1);
+}
+
 .nav-pills .nav-item .nav-link {
   padding: 0 15.5px;
   text-align: center;
