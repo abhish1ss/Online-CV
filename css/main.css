@@ -1255,7 +1255,8 @@
 
 .btn-primary {
   background-color: #378C3F;
-  color: #FFFFFF; }
+  color: #FFFFFF; 
+  width: fit-content; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover,
   .show > .btn-primary.dropdown-toggle,
   .show > .btn-primary.dropdown-toggle:focus,
